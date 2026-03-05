@@ -78,3 +78,13 @@
       ** 힙(Heap) 메모리 관리 : 모든 파이썬 객체가 실제로 저장되는 공간
      * 로우레벨 : 파이썬 가상머신(PVM) -> 하드웨어 실행
       ** CPU로 데이터이동, 산술논리연산장치(ALU)연산 수행, 전기신호 출력
+
+[11] 파이썬 코딩 도구
+     * 전문적인 통합 개발 환경(IDE, Integrated Development Environment)
+      ** 파이참(Pycharm) <- 찾아서 알아보기 , 스파이더(Spyder)
+     * 가벼운 코드 에디터
+      ** VS Code(Visual Studio Code) <- 찾아서 알아보기
+     * 대화형 노트북
+      ** 주피터 노트북(Jupyter Notebook)
+     * 온라인 개발 환경
+      ** 구글 코랩(Google Colab) <- 찾아서 알아보기
